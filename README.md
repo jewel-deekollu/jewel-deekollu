@@ -1,5 +1,3 @@
-Here’s a more detailed version:
-
 - 👋 Hi, I’m @jewel-deekollu  
 - 👀 I’m interested in web development, cloud computing, software development, Java, guitar, and music. I'm always eager to explore new technologies and find innovative ways to integrate my skills into practical projects.
 - 🌱 I’m currently diving deep into Spring, Spring Boot, and DevOps. These tools are helping me streamline the development process and build robust, scalable applications.
