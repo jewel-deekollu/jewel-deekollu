@@ -8,4 +8,3 @@ Here’s a more detailed version:
 - 😄 Pronouns: [He]
 - ⚡ Fun fact: Besides being a tech enthusiast, I play the guitar in my free time and love experimenting with music production. I believe that both coding and music require creativity, precision, and passion!
 
-Would you like to add any more specifics or personal touches?
